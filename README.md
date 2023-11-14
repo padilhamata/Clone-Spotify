@@ -16,4 +16,4 @@ Neste projeto, você terá a oportunidade de aprender e aplicar conceitos essenc
 Este projeto guiado é uma excelente oportunidade para você praticar suas habilidades de front-end e desenvolver um projeto realista e relevante para o mercado. Através dessa experiência, você consolidará seus conhecimentos e estará preparado para enfrentar desafios futuros no desenvolvimento web.
 
 Crie um Clone do Spotify com HTML & CSS
-https://www.youtube.com/watch?v=4sEUC7OQfq4
+https://www.youtube.com/watch?v=4sEUC7OQfq4 
